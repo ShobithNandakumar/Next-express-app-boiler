@@ -1,0 +1,19 @@
+{
+  "name": "Mock-Next-App",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Shobith Nandakumar",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node ./server/index.js",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "next": "^9.3.6",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}

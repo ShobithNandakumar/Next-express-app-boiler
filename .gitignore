@@ -1,0 +1,25 @@
+# Dependency directories
+node_modules/
+
+# next.js build output
+.next
+
+# typescript build output
+dist
+#yarn file
+yarn.lock
+yarn-error.log
+
+.DS_Store
+
+# webpack bundle analyser data
+bundles
+
+# package lock file
+package-lock.json
+
+#log files
+.log
+
+#robots
+robots.txt*
